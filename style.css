@@ -1,0 +1,26 @@
+.textContent
+{
+    font-size: 2rem;
+}
+
+.form-control
+{
+    font-size: 1rem;
+    font-weight: 600;
+    background-color:rgb(191, 191, 225, 0.4);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(147, 157, 185);
+
+}
+
+.outputArea
+{
+    background-color:rgb(191, 191, 225, 0.4);
+    border: 2px solid rgb(147, 157, 185);
+}
+
+.navbar-brand i, 
+.navbar-brand {
+    color: rgb(229, 229, 235) !important; /* Always light */
+}
+
